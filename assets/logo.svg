@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" fill="none">
+  <rect x="14" y="14" width="100" height="100" rx="22" fill="#1E293B" stroke="#38BDF8" stroke-width="3"/>
+  <path d="M30 88 C42 82, 54 82, 64 88 C74 82, 86 82, 98 88 L98 54 C86 48, 74 48, 64 54 C54 48, 42 48, 30 54 Z"
+        fill="#0F172A" stroke="#E2E8F0" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="64" y1="54" x2="64" y2="88" stroke="#94A3B8" stroke-width="2.5"/>
+  <path d="M64 26 L75 44 L64 60 L53 44 Z" fill="#F59E0B" stroke="#FEF3C7" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="64" cy="43" r="3" fill="#1E293B"/>
+  <line x1="64" y1="46" x2="64" y2="60" stroke="#1E293B" stroke-width="2"/>
+  <circle cx="34" cy="34" r="5" fill="#A78BFA" stroke="#F8FAFC" stroke-width="1.8"/>
+  <circle cx="94" cy="34" r="5" fill="#38BDF8" stroke="#F8FAFC" stroke-width="1.8"/>
+  <circle cx="64" cy="99" r="5" fill="#34D399" stroke="#F8FAFC" stroke-width="1.8"/>
+  <line x1="39" y1="36" x2="54" y2="41" stroke="#A78BFA" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <line x1="89" y1="36" x2="74" y2="41" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 2"/>
+</svg>
