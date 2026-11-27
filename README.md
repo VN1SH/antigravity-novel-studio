@@ -32,12 +32,12 @@
 
 ### Windows (PowerShell)
 ```powershell
-git clone <你的仓库地址> "$env:USERPROFILE\.gemini\config\plugins\novel-studio"
+git clone https://github.com/VN1SH/antigravity-novel-studio.git "$env:USERPROFILE\.gemini\config\plugins\novel-studio"
 ```
 
 ### macOS / Linux
 ```bash
-git clone <你的仓库地址> ~/.gemini/config/plugins/novel-studio
+git clone https://github.com/VN1SH/antigravity-novel-studio.git ~/.gemini/config/plugins/novel-studio
 ```
 
 安装完成后，插件会在 Antigravity 中自动发现并加载（你也可以在左侧边栏 **Skills & Customizations** 中随时查看或一键开关）。

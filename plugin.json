@@ -2,6 +2,8 @@
   "name": "novel-studio",
   "displayName": "Novel Studio（多 Agent 长篇小说创作工坊）",
   "version": "1.0.0",
+  "author": "VN1SH",
+  "repository": "https://github.com/VN1SH/antigravity-novel-studio",
   "description": "面向 Antigravity 的多 Agent 长篇小说协同创作框架：支持自由为「主编/编剧」「写手」「自定义审查官」「客观档案员」配置任意模型，内置酒馆式世界书（Lorebook）、每章摘要、伏笔暗线台账、长篇滑动窗口与每章细纲确认门禁；文风规范与审查标准完全留白由用户自定义。",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
