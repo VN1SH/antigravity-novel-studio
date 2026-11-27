@@ -28,14 +28,22 @@
 
 ## 安装方式
 
+### 方式一：使用 Antigravity CLI 一键安装（推荐）
+
+```bash
+agy plugin install https://github.com/VN1SH/antigravity-novel-studio
+```
+
+### 方式二：手动克隆到全局插件目录
+
 将本仓库克隆到 Antigravity 的全局插件目录（`~/.gemini/config/plugins/novel-studio`）：
 
-### Windows (PowerShell)
+#### Windows (PowerShell)
 ```powershell
 git clone https://github.com/VN1SH/antigravity-novel-studio.git "$env:USERPROFILE\.gemini\config\plugins\novel-studio"
 ```
 
-### macOS / Linux
+#### macOS / Linux
 ```bash
 git clone https://github.com/VN1SH/antigravity-novel-studio.git ~/.gemini/config/plugins/novel-studio
 ```
